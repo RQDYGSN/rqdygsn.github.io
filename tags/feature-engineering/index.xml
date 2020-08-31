@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feature engineering on Hugo tranquilpeak theme</title>
+    <link>https://rqdygsn.github.io/tags/feature-engineering/</link>
+    <description>Recent content in feature engineering on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rqdygsn.github.io/tags/feature-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feature Engineering_The Effect of Normalization on Gradient Descent</title>
+      <link>https://rqdygsn.github.io/2020/08/feature-engineering_the-effect-of-normalization-on-gradient-descent/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rqdygsn.github.io/2020/08/feature-engineering_the-effect-of-normalization-on-gradient-descent/</guid>
+      <description>&lt;p&gt;This article briefly explains the importance of normalization through gradient descent (GD).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
